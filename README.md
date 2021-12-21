@@ -1,13 +1,13 @@
 ![MercadoLibre](./src/favicon.svg "MercadoLibre")
 
-#Challenge MercadoLibre propuesto por [Gonzalo Pozzo](https://github.com/goncy)
+# Challenge MercadoLibre propuesto por [Gonzalo Pozzo](https://github.com/goncy)
 
 
 
-# MercadoLibre challenge
+##  MercadoLibre challenge
 Debemos crear un clon de [la página de detalle de producto](https://articulo.mercadolibre.com.ar/MLA-741093357-peluche-stitch-angel-lilo-1-metro-100cm-reales-gigante-_JM#position=5&search_layout=stack&type=item&tracking_id=839ad6c1-5098-41e7-914b-75a960f45a3b) de Mercado Libre.
 
-# API
+##  API
 Podés encontrar los mocks necesarios para empezar a trabajar en `./src/product/mocks` con sus respectivos types. Sin embargo, algunos de los campos necesarios para completar la pantalla no están ahí, queda en vos agregarlos!
 
 ## Definición funcional
