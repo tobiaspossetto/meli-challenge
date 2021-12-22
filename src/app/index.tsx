@@ -6,9 +6,9 @@ import Navbar from "./screens/Navbar";
 
 const App: React.FC = () => {
   return (
-    <Stack>
+    <Stack backgroundColor='blackAlpha.100'>
         <Box>< Navbar /></Box>
-        <Container size="xl" alignSelf="center" maxWidth="container.xl" paddingX={0}>
+        <Container  size="xl" alignSelf="center" maxWidth="container.xl" paddingX={0}>
         <Box>
           <Routes />
         </Box>

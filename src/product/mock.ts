@@ -31,7 +31,7 @@ export default {
       pictures: [
         {
           id: "978173-MLA32582347639_102019",
-          url: "http://http2.mlstatic.com/D_978173-MLA32582347639_102019-O.jpg",
+          url: "https://http2.mlstatic.com/D_NQ_NP_685933-MLA42764705768_072020-O.webp",
           secure_url: "https://http2.mlstatic.com/D_978173-MLA32582347639_102019-O.jpg",
           size: "500x496",
           max_size: "1200x1192",
@@ -39,7 +39,7 @@ export default {
         },
         {
           id: "754004-MLA32299823528_092019",
-          url: "http://http2.mlstatic.com/D_754004-MLA32299823528_092019-O.jpg",
+          url: "https://http2.mlstatic.com/D_NQ_NP_743939-MLA46545745174_062021-O.webp",
           secure_url: "https://http2.mlstatic.com/D_754004-MLA32299823528_092019-O.jpg",
           size: "500x396",
           max_size: "1200x951",
@@ -47,7 +47,7 @@ export default {
         },
         {
           id: "616691-MLA27900381255_082018",
-          url: "http://http2.mlstatic.com/D_616691-MLA27900381255_082018-O.jpg",
+          url: "https://http2.mlstatic.com/D_NQ_NP_751462-MLA42689389797_072020-O.webp",
           secure_url: "https://http2.mlstatic.com/D_616691-MLA27900381255_082018-O.jpg",
           size: "500x500",
           max_size: "800x800",
@@ -55,7 +55,7 @@ export default {
         },
         {
           id: "918230-MLA31424182281_072019",
-          url: "http://http2.mlstatic.com/D_918230-MLA31424182281_072019-O.jpg",
+          url: "https://http2.mlstatic.com/D_NQ_NP_650630-MLA42689427379_072020-O.webp",
           secure_url: "https://http2.mlstatic.com/D_918230-MLA31424182281_072019-O.jpg",
           size: "281x500",
           max_size: "1080x1920",

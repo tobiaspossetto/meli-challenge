@@ -44,10 +44,12 @@ export default extendTheme({
       variants: {
         unstyled: ({colorScheme = "blackAlpha"}) => ({
           color: `${colorScheme}.700`,
+          fontSize:'17px',
           _hover: {
             color: `${colorScheme}.800`,
             textDecoration: "none",
           },
+          
         }),
 
        
@@ -73,6 +75,7 @@ export default extendTheme({
         profile: ({colorScheme = "blackAlpha"}) => ({
           color: `blackAlpha.800`,
           fontWeight: "400",
+          fontSize:'15px',
           _hover: {
             color: `secondary.800`,
             textDecoration: "none",
